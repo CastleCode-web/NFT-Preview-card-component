@@ -33,8 +33,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [](https://github.com/CastleCode-web/NFT-Preview-card-component)
-- Live Site URL: []( https://castlecode-web.github.io/NFT-Preview-card-component/)
+- Solution URL: [Solution site](https://github.com/CastleCode-web/NFT-Preview-card-component)
+- Live Site URL: [Live site]( https://castlecode-web.github.io/NFT-Preview-card-component/)
 
 ## My process
 
